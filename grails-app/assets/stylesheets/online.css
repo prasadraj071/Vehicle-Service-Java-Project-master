@@ -1,0 +1,35 @@
+body{
+    background: white;
+}
+
+.error{
+    border-color: red;
+}
+
+.tt-dataset{
+    background-color: lightskyblue;
+    border-radius: 1%;
+    width: 100%;
+}
+
+.twitter-typeahead{
+    width: 100%;
+}
+
+.tt-cursor{
+    background-color: white;
+}
+
+.tt-suggestion{
+    width: 100%;
+    padding-top:.25rem!important;
+    opacity: 0.9;
+}
+
+.tt-menu{
+    width: 80%;
+}
+
+.required{
+    border-color: lightpink;
+}
